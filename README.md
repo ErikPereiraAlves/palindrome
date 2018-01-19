@@ -1,0 +1,1 @@
+Simple Palindrome test using Junit 5
